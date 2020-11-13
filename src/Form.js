@@ -11,7 +11,7 @@ class Form extends Component {
                     <label htmlFor="training">Training/Course:</label>
                     <input name="training" type="text"></input>
                     <hr></hr>
-                    <label>Overall, how statisfied were you with this training?</label>
+                    <label>Overall, how statisfied were you with this training program?</label>
                     <table>
                         <thead>
                             <th colSpan="2"></th>
